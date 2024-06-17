@@ -1,0 +1,10 @@
+
+{    "Personas": {
+
+    "Nombre": ["Pedro", "Maria", "Roberto_Carlos", "Julieta", "Ramon"],
+    "Apellido":["Guzman", "Nieves", "Guerra", "Lopez", "Rodriguez"],
+    "DNI":[22773450, 35928532, 40726384, 29384710, 31749223],
+    "telefono":[3755121314, 3764131517, 3758171819, 3751222324, 3765334455],
+    "Localidad":["L_N_Alem", "Posadas", "Apóstoles", "Eldorado", "Posadas"]
+    }
+}
